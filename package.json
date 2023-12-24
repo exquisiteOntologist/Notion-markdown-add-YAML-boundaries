@@ -1,0 +1,7 @@
+{
+  "name": "notion-markdown-add-yaml-boundaries",
+  "version": "0.0.1",
+  "description": "Adds the YAML boundaries to markdown files exported by Notion",
+  "main": "main.js",
+  "author": "Jon Vaillant"
+}
